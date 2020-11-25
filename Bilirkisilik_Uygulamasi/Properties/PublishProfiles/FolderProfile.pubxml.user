@@ -17,10 +17,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>09/10/2013 16:29:20</publishTime>
     </File>
     <File Include="bin/Bilirkisilik_Uygulamasi.dll">
-      <publishTime>11/11/2020 15:04:20</publishTime>
+      <publishTime>11/25/2020 16:03:06</publishTime>
     </File>
     <File Include="bin/Bilirkisilik_Uygulamasi.pdb">
-      <publishTime>11/11/2020 15:04:20</publishTime>
+      <publishTime>11/25/2020 16:03:06</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
       <publishTime>04/16/2020 20:38:42</publishTime>
@@ -5948,7 +5948,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>10/30/2020 22:00:11</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>11/05/2020 11:55:23</publishTime>
+      <publishTime>11/25/2020 16:00:41</publishTime>
     </File>
     <File Include="Views/Login/GirisYap.cshtml">
       <publishTime>11/09/2020 15:47:02</publishTime>
@@ -5981,7 +5981,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>10/31/2020 19:55:56</publishTime>
     </File>
     <File Include="Views/UcretYazilmamisDefault/GetAll.cshtml">
-      <publishTime>11/11/2020 15:03:28</publishTime>
+      <publishTime>11/25/2020 14:19:08</publishTime>
     </File>
     <File Include="Views/UcretYazilmamisDefault/Index.cshtml">
       <publishTime>11/10/2020 17:09:28</publishTime>
